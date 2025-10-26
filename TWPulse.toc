@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: TW Pulse
+## Author: Xerron/Er
+## Version: 1.0.0.0
+## Notes: Cooldown pulse. /twpunlock - to move the frame /twplock - to lock moving
+# SavedVariables: TWPB_HP, TWPB_P
+TWPulse.xml
